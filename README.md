@@ -1,0 +1,1 @@
+The 2.0 version application lso-nawojowa was created for altar boys for our parish. In this version was included admin-panel to managment altar boys accounts, their points, and to create or edit posts. Furthemore was change User Interface using Bootstrap 5.0.        
