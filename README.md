@@ -9,7 +9,7 @@ The application written in:
 - HTML,
 - CSS
 
-![create-ministrant](https://user-images.githubusercontent.com/78620383/163802718-f528407c-f78d-497b-bce0-5b433f1156c7.png)
+![create-ministrant](https://user-images.githubusercontent.com/78620383/163803577-80fc0901-131e-4d15-bee4-800178b9c12d.png)
 **CREATE ALTAR BOY**
 
 ![update-points](https://user-images.githubusercontent.com/78620383/163802958-b71a05ec-1854-46cf-a36c-cd0f20d3c70e.png)
