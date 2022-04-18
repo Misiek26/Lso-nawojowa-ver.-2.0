@@ -1,0 +1,77 @@
+/*Main styles*/
+
+*{
+    font-family:'Roboto';
+    box-sizing:border-box;
+    margin:0;
+}
+
+.container{
+    max-width:1050px;
+    margin:auto;
+}
+
+/*Header*/
+
+h1{
+    padding:40px;
+    color:#345;
+}
+
+/*Article*/
+
+h2{
+    color:#990000;
+    border:1px solid #990000;
+    padding:10px;
+    display:inline;
+    cursor:pointer;
+}
+
+/*Posts*/
+article h3{
+    color:#990000;
+    margin-bottom:10px;
+}
+article .publication-date{
+    color:grey;
+    padding:10px;
+}
+article p{
+    margin-top:8px;
+    text-indent:15px;
+    word-wrap: break-word;
+}
+
+/*Footer*/
+
+.footer{
+    background:#6b1818;
+    color:#fff;
+    padding:20px;
+}
+
+/* Responsives */
+
+@media screen and (max-width:800px){
+    h1{
+        font-size:1.3rem;
+    }
+
+    /*Article*/
+
+    article h3{
+        font-size:1.4rem;
+    }
+
+    article p{
+        font-size:1.1rem;
+        word-spacing:1.5px;
+    }
+
+    /*Footer*/
+
+    footer p{
+        font-size:1rem;
+    }
+}

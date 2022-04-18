@@ -1,0 +1,85 @@
+/* .site-title{
+    font-size:2em;
+    padding-left:50px;
+    font-weight:bold;
+    background-image:radial-gradient(#CC0000, #880000);
+    color:#fff;
+    padding:15px;
+    border-radius:15px;
+    text-shadow:2px 2px black;
+    padding-left:50px;
+} */
+.site-title{
+    background-color:#990000;
+    font-size:1.8em;
+    font-weight:bold;
+    padding:0.7em;
+    margin:auto;
+}
+.left-panel{
+    min-height:700px;
+}
+.left-panel h5{
+    color:#AA0000;
+    font-size:1.8em;
+    font-weight:bold;
+    margin-bottom:1em;
+    margin-top:2em;
+}
+.left-panel li{
+    cursor:pointer;
+    font-size:1.2em;
+}
+#panel>.container{
+    min-height:800px;
+}
+#panel h4{
+    font-weight:600;
+    font-size:1.8rem;
+}
+#panel>.container>button{
+    font-size:1.4em;
+    font-weight:600;
+    color:#990000;
+}
+#panel>.container>button:focus{
+    outline:2px solid #990000;
+}
+#panel>.container h5{
+    font-weight:bold;
+}
+#panel>.container ul:hover{
+    cursor:pointer;
+}
+#panel>.container>button:hover{
+    color:#fff;
+    transition:0.5s;
+}
+#panel>.change-container>button:hover{
+    color:#990000;
+}
+.month-list a{
+    font-size:1.2em;
+}
+.month-list a:hover{
+    cursor:pointer;
+}
+#panel .container .table input{
+    margin:0;
+} 
+.input-group{
+    max-width:800px;
+    margin:auto;
+}
+#loginError{
+    max-width:800px;
+    margin:auto;
+}
+
+/* Create ministrant*/
+.create-ministrant .input-group-prepend{
+   width:120px;
+}
+.create-ministrant-success .container>div{
+    font-size:1.3em;
+}

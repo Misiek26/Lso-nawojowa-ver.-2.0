@@ -1,0 +1,25 @@
+.logout{
+    font-size:24px;
+}
+.score-title b{
+    text-decoration:underline;
+}
+.person, .score-for-year{
+    display:inline;
+}
+table,td,th{
+    border:1px solid black;
+    font-size:20px;
+}
+.leaderboard h2{
+    border:0;
+    color:#000;
+    display:block;
+    font-weight:bold;
+    cursor:auto;
+}
+@media screen and (max-width:800px){
+    td,th{
+        font-size:16px;
+    }
+}

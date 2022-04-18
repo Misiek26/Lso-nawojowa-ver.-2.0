@@ -1,0 +1,45 @@
+/*Navigation*/
+
+nav ul li{
+    font-size:20px;
+    padding:15px;
+}
+nav ul li a{
+    color:rgb(41, 48, 56);
+    text-decoration:none;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color:#990000;
+}
+.navbar{
+    border-color:#D6D9DF;
+}
+
+.navbar-nav {
+    flex-direction:row;
+    margin:auto;
+}
+.mobile-nav{
+    display:none;
+}
+
+/*Responsives*/
+
+@media screen and (max-width:800px){
+    .desktop-nav{
+        display:none;
+    }
+    .mobile-nav{
+        display:block;
+        padding:20px;
+    }
+    .mobile-nav button{
+        margin:auto;
+        font-size:25px;
+    }
+    .mobile-menu{
+        padding:20px;
+        width:100%;
+    }
+}

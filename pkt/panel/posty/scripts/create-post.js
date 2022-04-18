@@ -1,0 +1,2 @@
+document.getElementById('panel').innerHTML = "<div class='container m-auto mt-5 p-5 text-center create-ministrant-success'>"
++"<h4 class='mt-5 pt-3 text-center'>Post został pomyślnie dodany!</h4></div>";  
